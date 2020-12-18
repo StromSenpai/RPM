@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T06:56:19.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="cCM1WvwOEccaqwDi1g72" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T07:04:39.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="SuwTVkNKjG3FQkSRA6ct" version="14.0.5" type="github">
   <diagram id="pefr4DYRRglL5Lzdij0k" name="Page-1">
-    <mxGraphModel dx="651" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1860" dy="1497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QFWCrtKBtd-h_NhZRKzf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-1">
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-1" target="QFWCrtKBtd-h_NhZRKzf-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="130" as="targetPoint" />
+            <mxPoint x="440" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-1" value="Предприятие&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-8" target="QFWCrtKBtd-h_NhZRKzf-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-8" value="Выпускает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="130" width="200" height="80" as="geometry" />
+          <mxGeometry x="340" y="130" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-9" target="QFWCrtKBtd-h_NhZRKzf-12">
           <mxGeometry relative="1" as="geometry" />
@@ -30,31 +30,59 @@
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-9" target="QFWCrtKBtd-h_NhZRKzf-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="385" />
-              <mxPoint x="210" y="385" />
+              <mxPoint x="320" y="310" />
+              <mxPoint x="320" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-9" target="QFWCrtKBtd-h_NhZRKzf-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QFWCrtKBtd-h_NhZRKzf-9" value="Изделия" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-9" value="Изделие" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-11" value="Грузовые автомобили" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-12" value="Легковые автомобили" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-15" value="Автобусы" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-17" value="Сельскохозяйственная техника" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="469" width="160" height="61" as="geometry" />
+          <mxGeometry x="140" y="480" width="160" height="61" as="geometry" />
         </mxCell>
         <mxCell id="QFWCrtKBtd-h_NhZRKzf-19" value="Дорожно-строительная техника" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="409" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="399" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-23" value="Проходит испытания" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-26" target="QFWCrtKBtd-h_NhZRKzf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-26" value="Испытательные лаборатории" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-27" value="Специалистами" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QFWCrtKBtd-h_NhZRKzf-28" target="QFWCrtKBtd-h_NhZRKzf-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFWCrtKBtd-h_NhZRKzf-28" value="Проводятся" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="690" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
